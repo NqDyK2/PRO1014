@@ -29,9 +29,18 @@ PULL request: Base là nơi nhận code <- compare: là nơi chuyển code
 
 Code mới được thay đổi....
 
+
+Tạo lại vừa code đấy hihi.
+ádf
+s
+fsadf
+fsdfasdf
+
+
 ấdfgdsgfs
 gfdgsfdgg
 fgsdgsdfg
+
 
 Đang code...
 
@@ -44,6 +53,7 @@ Bước 1: Là các bạn phải lưu code mới đang code trên nhánh hiện 
 
 Bước 2: -> rebase code(Rebase Branch):  
 
--> merge code(Merge Branch): 
+-> merge code(Merge Branch):  Bấm dấu ... => "Branch" => Chọn merge => Chọn nhánh có code mới nhất mà mình muốn xử lý conflict => xử lý bằng cách accept current || Accept Icoming || Accept Both.   
 
 NOTE: Cả 2 cách này chỉ có thể sử dụng khi làm bước 1 tức là dev đã có code mới nhất.
+
