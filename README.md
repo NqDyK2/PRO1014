@@ -33,3 +33,17 @@ Code mới được thay đổi....
 gfdgsfdgg
 fgsdgsdfg
 
+Đang code...
+
+Đang code....
+
+2 cách nâng cao để giải quyết conflict tại visual studio code.
+
+Bước 1: Là các bạn phải lưu code mới đang code trên nhánh hiện tại vào bộ nhớ của mtinh cá nhân. 
+=> Bấm dấu ... => "Stash" => chuyển sang nhánh dev => lấy code về => chuyển về nhánh đang code => Pop Stash.
+
+Bước 2: -> rebase code(Rebase Branch):  
+
+-> merge code(Merge Branch): 
+
+NOTE: Cả 2 cách này chỉ có thể sử dụng khi làm bước 1 tức là dev đã có code mới nhất.
