@@ -8,6 +8,7 @@ Tất cả các chức năng mới đều phải được đẩy vào dev để 
 
 Checkout từ develop ra nhánh mới để code chức năng.
 
+
 Công việc trước khi code chức năng mới:
 
 1. Các bạn phải pull code mới nhất ở trên dev về nhánh feature.
@@ -23,3 +24,10 @@ Công việc trước khi code chức năng mới:
 5. Tạo pull request. 
 
 PULL request: Base là nơi nhận code <- compare: là nơi chuyển code
+
+Code mới được thay đổi....
+
+ấdfgdsgfs
+gfdgsfdgg
+fgsdgsdfg
+
