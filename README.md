@@ -29,7 +29,16 @@ PULL request: Base là nơi nhận code <- compare: là nơi chuyển code
 
 Code mới được thay đổi....
 
+
+Tạo lại vừa code đấy hihi.
+ádf
+s
+fsadf
+fsdfasdf
+
+
 ấdfgdsgfs
 gfdgsfdgg
 fgsdgsdfg
+
 
