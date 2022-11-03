@@ -42,7 +42,7 @@ Bước 1: Là các bạn phải lưu code mới đang code trên nhánh hiện 
 
 Bước 2: 
 
-1. -> rebase code(Rebase Branch): Phải commit code lên onl trước rồi mới có thể sử dụng được. 
+1. -> rebase code(Rebase Branch): Phải commit code lên onl trước rồi mới có thể sử dụng được. Bấm dấu ... => "Branch" => Chọn rebase => Chọn nhánh có code mới nhất mà mình muốn xử lý conflict => xử lý bằng cách accept current || Accept Icoming || Accept Both.   
 
 2. -> merge code(Merge Branch): Phải commit code lên onl trước rồi mới có thể sử dụng được.  Bấm dấu ... => "Branch" => Chọn merge => Chọn nhánh có code mới nhất mà mình muốn xử lý conflict => xử lý bằng cách accept current || Accept Icoming || Accept Both.   
 
