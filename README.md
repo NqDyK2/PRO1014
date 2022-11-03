@@ -22,3 +22,4 @@ Công việc trước khi code chức năng mới:
 
 5. Tạo pull request. 
 
+PULL request: Base là nơi nhận code <- compare: là nơi chuyển code
