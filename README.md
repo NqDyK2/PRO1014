@@ -33,15 +33,18 @@ Tạo lại vừa code đấy hihi.
 Đang code...
 
 Đang code....
-
+adfsfasfasfa
+fsadfasdfa
 2 cách nâng cao để giải quyết conflict tại visual studio code.
 
 Bước 1: Là các bạn phải lưu code mới đang code trên nhánh hiện tại vào bộ nhớ của mtinh cá nhân. 
 => Bấm dấu ... => "Stash" => chuyển sang nhánh dev => lấy code về => chuyển về nhánh đang code => Pop Stash.
 
-Bước 2: -> rebase code(Rebase Branch):  
+Bước 2: 
 
--> merge code(Merge Branch):  Bấm dấu ... => "Branch" => Chọn merge => Chọn nhánh có code mới nhất mà mình muốn xử lý conflict => xử lý bằng cách accept current || Accept Icoming || Accept Both.   
+1. -> rebase code(Rebase Branch): Phải commit code lên onl trước rồi mới có thể sử dụng được. Bấm dấu ... => "Branch" => Chọn rebase => Chọn nhánh có code mới nhất mà mình muốn xử lý conflict => xử lý bằng cách accept current || Accept Icoming || Accept Both.   
+
+2. -> merge code(Merge Branch): Phải commit code lên onl trước rồi mới có thể sử dụng được.  Bấm dấu ... => "Branch" => Chọn merge => Chọn nhánh có code mới nhất mà mình muốn xử lý conflict => xử lý bằng cách accept current || Accept Icoming || Accept Both.   
 
 NOTE: Cả 2 cách này chỉ có thể sử dụng khi làm bước 1 tức là dev đã có code mới nhất.
 
