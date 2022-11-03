@@ -8,7 +8,6 @@ Tất cả các chức năng mới đều phải được đẩy vào dev để 
 
 Checkout từ develop ra nhánh mới để code chức năng.
 
-
 Công việc trước khi code chức năng mới:
 
 0. chuyển về dev.
@@ -29,18 +28,7 @@ PULL request: Base là nơi nhận code <- compare: là nơi chuyển code
 
 Code mới được thay đổi....
 
-
 Tạo lại vừa code đấy hihi.
-ádf
-s
-fsadf
-fsdfasdf
-
-
-ấdfgdsgfs
-gfdgsfdgg
-fgsdgsdfg
-
 
 Đang code...
 
@@ -57,3 +45,4 @@ Bước 2: -> rebase code(Rebase Branch):
 
 NOTE: Cả 2 cách này chỉ có thể sử dụng khi làm bước 1 tức là dev đã có code mới nhất.
 
+AAAABBBBCCCCDDDDD
